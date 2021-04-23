@@ -150,7 +150,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000030</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Welcome To xxxxxxxx Roleplay Server</cmd>
+		<cmd>say -1 Добро пожаловать на наш сервер</cmd>
 	</job>
 	<job id='1'>
 		<day>1,2,3,4,5,6,7</day>
